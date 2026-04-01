@@ -19,13 +19,13 @@ The **Student Attendance Management System** is a Java-based application designe
 ## 📸 Screenshots
 
 ### 🔹 Application Dashboard
-![Menu](screenshots/Menu.png)
+![Menu](Student_Attendence/screenshots/Menu.png)
 
 ### 🔹 Attendance Record
-![AttendanceRecord](screenshots/attendance.png)
+![AttendanceRecord](Student_Attendence/screenshots/Attendance_record.png)
 
 ### 🔹 Attendance Report
-![AttendanceReport](screenshots/report.png)
+![AttendanceReport](Student_Attendence/screenshots/Attendance_report.png)
 
 ## ▶️ How to Run
 1. Clone or download the repository  
